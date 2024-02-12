@@ -1,0 +1,11 @@
+---
+title: "Eventos"
+toc-title: "Conteúdos"
+---
+
+Lista de eventos
+
+## Eventos online
+
+[Journal Club FC](jcfc/index.qmd)
+

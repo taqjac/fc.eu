@@ -3,18 +3,39 @@ project:
   output-dir: docs
 
 website:
-  title: "fc.eu"
+  title: "FISIOLOGIACLINICA.EU"
+  back-to-top-navigation: true
   navbar:
+    background: primary
     left:
       - href: index.qmd
-        text: Home
-      - about.qmd
-
+        text: Início
+      - href: sobre/index.qmd
+        text: Sobre
+      - href: eventos/index.qmd
+        text: Eventos
+        
+  page-footer:
+    left: "2024 fisiologiaclinica.eu" 
+    # right: 
+    #  - icon: instagram
+    #    href: https://github.com/
+    #  - icon: twitter 
+    #    href: https://twitter.com/ 
 format:
   html:
-    theme: cosmo
+    pagetitle: "{{< meta title >}} | fisiologia clinica . eu"
+    theme: journal
     css: styles.css
+    # grid:
+      # body-width: 800px
+    anchor-sections: true
+    link-external-icon: false
+    link-external-newwindow: true
+    footnotes-hover: true
     toc: true
+    page-layout: full
 
-editor: visual
+
+    
 

@@ -1,11 +1,7 @@
 ---
-title: "fc.eu"
+title: "FISIOLOGIA CLÍNICA . eu"
+toc: false
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+![](img/logo-fc-eu.jpg)
+*Em construção*

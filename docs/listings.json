@@ -1,0 +1,15 @@
+[
+  {
+    "listing": "/eventos.html",
+    "items": [
+      "/eventos/index.html",
+      "/eventos/jcfc.html"
+    ]
+  },
+  {
+    "listing": "/eventos/index.html",
+    "items": [
+      "/eventos/2024-02-15-jcfc/2024-02-15-jcfc.html"
+    ]
+  }
+]

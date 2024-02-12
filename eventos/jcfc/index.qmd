@@ -1,0 +1,50 @@
+---
+title: "Journal Club FC"
+toc-title: "Conteúdos"
+toc-expand: true
+---
+
+![](ESS-JCFC-header.jpg)
+
+Junte-se a nós para uma jornada de descoberta e aprendizagem da investigação clínica mais relevante em fisiologia clínica. O JCFC, a nossa série de Journal Clubs Online, direcionada a profissionais e estudantes da área, promete aprofundar os seu conhecimento em tópicos avançados e tendências emergentes na fisiologia clínica. Cada sessão de uma hora será dedicada à análise detalhada de um artigo científico chave, escolhido pela sua relevância e impacto. Esperamos que cada encontro seja uma oportunidade para discussões estimulantes, troca de ideias e networking entre pares.
+
+{{< downloadthis ESS-JCFC-poster.pdf dname=JCFC-POSTER label="Poster do evento" icon=file-earmark-pdf type=info >}}
+
+## Objectivos
+
+-   Promover a Aprendizagem Contínua: Fornecer aos participantes conhecimentos atualizados sobre avanços recentes nas publicações científicas relevantes para a fisiologia clínica.
+-   Fomentar a Discussão: Criar um ambiente colaborativo onde os participantes possam compartilhar ideias e experiências.
+-   Desenvolver Habilidades Analíticas: Encorajar a análise crítica de artigos científicos e a aplicação de conhecimentos na prática.
+-   Networking: Estabelecer uma comunidade de profissionais e estudantes para apoio mútuo e colaboração futura.
+
+## Inscrições
+
+Podem ser feitas através [aqui](https://formacao.ess.ipp.pt/v1/principal/home/index.php?page=verForm&id=2342), sendo que a inscrição é gratuita mas obrigatória.
+
+## Sessões
+
+Todas as sessões têm início às 21:00 via Zoom.
+
+### 15-02-2024
+
+Conteúdo disponível brevemente
+
+### 14-03-2024
+
+Conteúdo disponível brevemente
+
+### 11-04-2024
+
+Conteúdo disponível brevemente
+
+### 16-05-2024
+
+Conteúdo disponível brevemente
+
+### 13-06-2024
+
+Conteúdo disponível brevemente
+
+### 18-07-2024
+
+Conteúdo disponível brevemente
