@@ -2,6 +2,7 @@
 title: "Journal Club FC"
 toc-title: "Conteúdos"
 toc-expand: true
+callout-appearance: simple
 ---
 
 ## Uma jornada de descoberta e aprendizagem da investigação clínica mais relevante em fisiologia clínica!
@@ -9,7 +10,6 @@ toc-expand: true
 ![](ESS-JCFC-header.jpg)
 
 O JCFC, a nossa série de Journal Clubs Online, direcionada a profissionais e estudantes da área, promete aprofundar os seu conhecimento em tópicos avançados e tendências emergentes na fisiologia clínica. 
-
 Cada sessão de uma hora será dedicada à análise detalhada de um artigo científico chave, escolhido pela sua relevância e impacto. 
 
 Esperamos que cada encontro seja uma oportunidade para discussões estimulantes, troca de ideias e networking entre pares.
@@ -27,13 +27,24 @@ Esperamos que cada encontro seja uma oportunidade para discussões estimulantes,
 
 Podem ser feitas através [aqui](https://formacao.ess.ipp.pt/v1/principal/home/index.php?page=verForm&id=2342), sendo que a inscrição é gratuita mas obrigatória.
 
+::: {.callout-note}
+## Informações
+Para mais informações, contacte-nos por [email](mailto:mail@fisiologiaclinica.eu)
+:::
+
+
 ## Sessões
 
 Todas as sessões têm início às 21:00 via Zoom.
 
 ### 15-02-2024
 
-Conteúdo disponível brevemente
+Artigos analisados:
+
+- Çolak, Y. et al. Type-2 Inflammation and Lung Function Decline in Chronic Airway Disease in the General Population. Thorax 2024. [DOI](https://doi.org/10.1136/thorax-2023-220972)
+- Ji, H. et al. Sex Differences in Blood Pressure Trajectories Over the Life Course. JAMA Cardiology 2020 [DOI](https://doi.org/10.1001/jamacardio.2019.5306)
+
+[Link para a reunião](https://videoconf-colibri.zoom.us/j/92353423700?pwd=N1UwcE5iR0tMUWhJd3pGRUJyeVkrdz09) 
 
 ### 14-03-2024
 
