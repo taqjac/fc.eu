@@ -1,11 +1,10 @@
 ---
 title: "Journal Club FC"
+subtitle: Uma jornada de descoberta e aprendizagem da investigação clínica mais relevante em fisiologia clínica!
 toc-title: "Conteúdos"
 toc-expand: true
 callout-appearance: simple
 ---
-
-## Uma jornada de descoberta e aprendizagem da investigação clínica mais relevante em fisiologia clínica!
 
 ![](ESS-JCFC-header.jpg)
 
